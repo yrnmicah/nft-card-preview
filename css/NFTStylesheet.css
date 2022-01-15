@@ -1,0 +1,72 @@
+.bgcolor{
+background-color: rgba(5, 5, 73, 0.767);
+}
+
+.container{
+   
+    border-width: 20px;
+    border-color: rgb(4, 4, 51);
+    background-color: rgb(31, 65, 138);
+    height:475px;
+    width: 300px;
+    text-align: center;
+    padding-top: 15px;
+    border-radius: 10px;
+    border-style: groove;
+    
+}
+
+.description{
+color: rgba(255, 255, 255, 0.534);
+text-align: left;
+margin-left: 20px;
+}
+
+.eth{
+text-align: left;
+color: rgb(20, 170, 175);
+display: flex;
+align-items: center;
+}
+
+.timer{
+margin-left: 75px;
+color: rgba(255, 255, 255, 0.534);
+
+align-items: center;
+
+}
+
+h1{
+    color: white;
+    font-size: large;
+    text-align: left;
+    margin-left: 20px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.author{
+color:rgba(255, 255, 255, 0.534) ;
+margin-left: 20px;
+text-align: left;
+display: flex;
+align-items: center;
+}
+
+.name{
+color: white;
+}
+
+.apic{
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px;
+}
+
+.diamond{
+    border-bottom: 1px solid var(--line);
+}
+
